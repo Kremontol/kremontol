@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Kremon,
-I'm a **Computer Science Student** whose trying my best to learn programming . 
+I'm a **Computer Science student** whose trying my best to learn programming . 
 
 - Currently learning : **C**, **HTML**, **CCS**, **JavaScript**
 - Focusing on        : *Data Structures and Algorithm*.
